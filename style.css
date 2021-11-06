@@ -1,0 +1,17 @@
+h1
+{
+	color: gold; 
+	font-size: 40px;
+}
+.background {
+	background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+	background-position: center;
+	background-size: cover;
+}
+
+#paintcanvas{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+}
